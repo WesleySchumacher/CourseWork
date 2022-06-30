@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addonCore>
+  <label>BodePlotMaker_2020;</label>
+  <version>1.0</version>
+  <type>app</type>
+  <packagedBy>(R2019b)</packagedBy>
+  <identifier>a1425281-d2eb-402c-9c65-6df6ff748e3a</identifier>
+  <createdBy name="Shalom" email="shalom@colorado.edu"/>
+  <image>resources/screenshot.png</image>
+  <icons>
+    <icon tag="0">resources/icon_48.png</icon>
+    <icon tag="1">resources/icon_24.png</icon>
+    <icon tag="2">resources/icon_16.png</icon>
+  </icons>
+</addonCore>

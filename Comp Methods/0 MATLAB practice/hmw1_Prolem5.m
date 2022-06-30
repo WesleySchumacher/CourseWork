@@ -1,0 +1,10 @@
+x =( 0.988:0.001:1.012);
+y1 = (x-1).^7;
+y2 = x.^7-7*x.^6+21*x.^5-35*x.^4+35*x.^3-21*x.^2+7*x-1;
+plot(x,y1);
+xlabel('x');
+title('plot of seventh order polynomials');
+hold on;
+e = y2;
+plot(x,e);
+legend('(x-1).^7','(x.^7-7*x.^6+21*x.^5-35*x.^4+35*x.^3-21*x.^2+7*x-1)'); 

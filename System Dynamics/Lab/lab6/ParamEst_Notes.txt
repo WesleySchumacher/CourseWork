@@ -1,0 +1,4 @@
+The following two notes describe how the top and bottom disk were set up with respect to the data I've provided for you.
+
+1.) The bottom disk did have 4 brass masses, but the top disk (and middle) had only 2 masses.
+2.) I put the outer radius of the brass masses at 9cm, so that means that the radius from the center of the disk to the center of the brass masses is actually 9cm minus the radius of the brass masses.

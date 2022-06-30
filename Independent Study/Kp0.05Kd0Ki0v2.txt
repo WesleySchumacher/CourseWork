@@ -1,0 +1,628 @@
+MotorA: 88
+MotorB: 71
+Position: 3323
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	189	189	296	3322
+3322
+MotorA: 88
+MotorB: 71
+Position: 3322
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	189	189	296	3322
+3322
+MotorA: 88
+MotorB: 71
+Position: 3322
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	189	189	296	3322
+3322
+MotorA: 88
+MotorB: 71
+Position: 3322
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	189	189	302	3334
+3334
+MotorA: 88
+MotorB: 71
+Position: 3334
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	189	189	296	3322
+3322
+MotorA: 88
+MotorB: 71
+Position: 3322
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	189	189	296	3322
+3322
+MotorA: 88
+MotorB: 71
+Position: 3322
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	189	189	296	3322
+3322
+MotorA: 88
+MotorB: 71
+Position: 3322
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	189	189	296	3322
+3322
+MotorA: 88
+MotorB: 71
+Position: 3322
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	189	189	296	3322
+3322
+MotorA: 88
+MotorB: 71
+Position: 3322
+Time taken by the task: 88 milliseconds
+358	221	197	202	175	189	189	296	3323
+3323
+MotorA: 88
+MotorB: 71
+Position: 3323
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	189	195	302	3343
+3343
+MotorA: 87
+MotorB: 72
+Position: 3343
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	189	195	302	3343
+3343
+MotorA: 87
+MotorB: 72
+Position: 3343
+Time taken by the task: 88 milliseconds
+358	221	197	208	175	195	195	308	3360
+3360
+MotorA: 87
+MotorB: 73
+Position: 3360
+Time taken by the task: 88 milliseconds
+352	221	197	202	175	189	195	302	3355
+3355
+MotorA: 87
+MotorB: 72
+Position: 3355
+Time taken by the task: 88 milliseconds
+334	210	180	190	163	178	178	265	3300
+3300
+MotorA: 90
+MotorB: 70
+Position: 3300
+Time taken by the task: 88 milliseconds
+249	146	116	101	84	89	83	102	2756
+2756
+MotorA: 117
+MotorB: 42
+Position: 2756
+Time taken by the task: 86 milliseconds
+225	123	93	65	43	35	29	17	996
+996
+MotorA: 205
+MotorB: -45
+Position: 996
+Time taken by the task: 80 milliseconds
+13	0	0	0	0	0	0	320	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 76 milliseconds
+0	0	0	0	0	0	0	0	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 72 milliseconds
+1	0	0	0	0	0	0	0	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 73 milliseconds
+13	0	0	0	0	0	0	363	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 76 milliseconds
+0	0	0	0	0	0	0	258	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 75 milliseconds
+0	0	0	0	0	0	0	0	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 72 milliseconds
+256	124	71	11	0	0	0	110	1846
+1846
+MotorA: 162
+MotorB: -2
+Position: 1846
+Time taken by the task: 80 milliseconds
+0	0	0	0	0	0	7	1	0
+0
+MotorA: 220
+MotorB: -95
+Position: 0
+Time taken by the task: 63 milliseconds
+0	0	0	0	0	0	0	8	0
+0
+MotorA: 220
+MotorB: -95
+Position: 0
+Time taken by the task: 63 milliseconds
+68	18	0	0	0	0	0	0	0
+0
+MotorA: 220
+MotorB: -95
+Position: 0
+Time taken by the task: 65 milliseconds
+1000	608	412	325	189	78	0	0	1360
+1360
+MotorA: 187
+MotorB: -27
+Position: 1360
+Time taken by the task: 85 milliseconds
+1000	767	518	409	249	125	0	0	1515
+1515
+MotorA: 179
+MotorB: -19
+Position: 1515
+Time taken by the task: 86 milliseconds
+361	183	118	54	0	0	0	0	811
+811
+MotorA: 214
+MotorB: -54
+Position: 811
+Time taken by the task: 77 milliseconds
+919	534	410	378	291	249	177	155	2262
+2262
+MotorA: 141
+MotorB: 18
+Position: 2262
+Time taken by the task: 89 milliseconds
+1000	1000	1000	1000	1000	1000	1000	1000	3500
+3500
+MotorA: 80
+MotorB: 80
+Position: 3500
+Time taken by the task: 95 milliseconds
+1000	1000	1000	1000	1000	1000	1000	1000	3500
+3500
+MotorA: 80
+MotorB: 80
+Position: 3500
+Time taken by the task: 96 milliseconds
+1000	1000	1000	1000	1000	1000	1000	1000	3500
+3500
+MotorA: 80
+MotorB: 80
+Position: 3500
+Time taken by the task: 96 milliseconds
+1000	1000	1000	1000	1000	1000	1000	1000	3500
+3500
+MotorA: 80
+MotorB: 80
+Position: 3500
+Time taken by the task: 96 milliseconds
+1000	1000	1000	1000	1000	1000	1000	1000	3500
+3500
+MotorA: 80
+MotorB: 80
+Position: 3500
+Time taken by the task: 96 milliseconds
+1000	1000	974	1000	1000	1000	1000	1000	3504
+3504
+MotorA: 79
+MotorB: 80
+Position: 3504
+Time taken by the task: 95 milliseconds
+42	40	46	795	1000	149	65	109	3910
+3910
+MotorA: 59
+MotorB: 100
+Position: 3910
+Time taken by the task: 86 milliseconds
+104	35	6	1000	1000	0	0	237	3698
+3698
+MotorA: 70
+MotorB: 89
+Position: 3698
+Time taken by the task: 83 milliseconds
+200	94	52	42	1000	1000	0	0	3920
+3920
+MotorA: 59
+MotorB: 101
+Position: 3920
+Time taken by the task: 83 milliseconds
+189	88	52	29	1000	1000	0	0	3946
+3946
+MotorA: 57
+MotorB: 102
+Position: 3946
+Time taken by the task: 83 milliseconds
+54	34	28	47	1000	905	11	23	4351
+4351
+MotorA: 37
+MotorB: 122
+Position: 4351
+Time taken by the task: 83 milliseconds
+66	46	40	59	1000	1000	29	48	4318
+4318
+MotorA: 39
+MotorB: 120
+Position: 4318
+Time taken by the task: 84 milliseconds
+24	16	10	29	1000	681	11	11	4405
+4405
+MotorA: 34
+MotorB: 125
+Position: 4405
+Time taken by the task: 83 milliseconds
+108	69	58	150	1000	488	53	60	3934
+3934
+MotorA: 58
+MotorB: 101
+Position: 3934
+Time taken by the task: 86 milliseconds
+48	35	29	53	1000	525	6	0	4299
+4299
+MotorA: 40
+MotorB: 119
+Position: 4299
+Time taken by the task: 81 milliseconds
+31	17	17	5	1000	869	0	0	4464
+4464
+MotorA: 31
+MotorB: 128
+Position: 4464
+Time taken by the task: 80 milliseconds
+0	0	0	29	1000	278	0	0	4217
+4217
+MotorA: 44
+MotorB: 115
+Position: 4217
+Time taken by the task: 78 milliseconds
+6	0	0	322	1000	30	0	0	3756
+3756
+MotorA: 67
+MotorB: 92
+Position: 3756
+Time taken by the task: 77 milliseconds
+17	16	11	315	1000	42	0	0	3760
+3760
+MotorA: 67
+MotorB: 93
+Position: 3760
+Time taken by the task: 80 milliseconds
+60	40	34	370	1000	41	0	0	3573
+3573
+MotorA: 76
+MotorB: 83
+Position: 3573
+Time taken by the task: 80 milliseconds
+11	16	22	533	1000	71	35	60	3830
+3830
+MotorA: 63
+MotorB: 96
+Position: 3830
+Time taken by the task: 83 milliseconds
+54	40	40	168	1000	198	17	36	3869
+3869
+MotorA: 61
+MotorB: 98
+Position: 3869
+Time taken by the task: 83 milliseconds
+156	110	104	240	1000	450	88	120	3816
+3816
+MotorA: 64
+MotorB: 95
+Position: 3816
+Time taken by the task: 87 milliseconds
+0	0	0	0	1000	1000	0	12	4500
+4500
+MotorA: 30
+MotorB: 130
+Position: 4500
+Time taken by the task: 79 milliseconds
+0	0	0	0	1000	1000	0	0	4500
+4500
+MotorA: 30
+MotorB: 130
+Position: 4500
+Time taken by the task: 78 milliseconds
+0	0	0	1000	1000	796	0	116	4049
+4049
+MotorA: 52
+MotorB: 107
+Position: 4049
+Time taken by the task: 83 milliseconds
+78	58	52	41	589	1000	53	60	4368
+4368
+MotorA: 36
+MotorB: 123
+Position: 4368
+Time taken by the task: 83 milliseconds
+12	5	5	0	0	1000	404	0	5287
+5287
+MotorA: -9
+MotorB: 169
+Position: 5287
+Time taken by the task: 78 milliseconds
+0	0	0	0	221	1000	54	0	4869
+4869
+MotorA: 11
+MotorB: 148
+Position: 4869
+Time taken by the task: 78 milliseconds
+0	0	0	1000	1000	30	6	0	3500
+3500
+MotorA: 80
+MotorB: 80
+Position: 3500
+Time taken by the task: 78 milliseconds
+6	23	1000	1000	0	0	0	0	2500
+2500
+MotorA: 130
+MotorB: 30
+Position: 2500
+Time taken by the task: 79 milliseconds
+0	23	1000	1000	6	0	0	0	2500
+2500
+MotorA: 130
+MotorB: 30
+Position: 2500
+Time taken by the task: 79 milliseconds
+0	0	82	1000	172	0	0	0	3071
+3071
+MotorA: 101
+MotorB: 58
+Position: 3071
+Time taken by the task: 78 milliseconds
+11	10	10	710	1000	35	11	30	3584
+3584
+MotorA: 75
+MotorB: 84
+Position: 3584
+Time taken by the task: 82 milliseconds
+96	75	75	88	1000	1000	130	151	4331
+4331
+MotorA: 38
+MotorB: 121
+Position: 4331
+Time taken by the task: 86 milliseconds
+12	5	0	0	61	1000	132	0	5059
+5059
+MotorA: 2
+MotorB: 157
+Position: 5059
+Time taken by the task: 78 milliseconds
+0	0	0	0	19	1000	193	0	5161
+5161
+MotorA: -3
+MotorB: 163
+Position: 5161
+Time taken by the task: 78 milliseconds
+0	0	0	0	1000	1000	0	0	4500
+4500
+MotorA: 30
+MotorB: 130
+Position: 4500
+Time taken by the task: 78 milliseconds
+36	16	5	1000	1000	0	11	36	3500
+3500
+MotorA: 80
+MotorB: 80
+Position: 3500
+Time taken by the task: 81 milliseconds
+66	46	360	1000	256	29	23	42	2820
+2820
+MotorA: 114
+MotorB: 46
+Position: 2820
+Time taken by the task: 85 milliseconds
+6	319	1000	959	12	0	0	0	2280
+2280
+MotorA: 141
+MotorB: 19
+Position: 2280
+Time taken by the task: 80 milliseconds
+1000	1000	0	0	0	0	0	0	500
+500
+MotorA: 220
+MotorB: -70
+Position: 500
+Time taken by the task: 76 milliseconds
+0	0	0	0	0	0	0	0	0
+0
+MotorA: 220
+MotorB: -95
+Position: 0
+Time taken by the task: 63 milliseconds
+0	0	0	0	0	0	0	50	0
+0
+MotorA: 220
+MotorB: -95
+Position: 0
+Time taken by the task: 64 milliseconds
+92	1000	1000	0	0	0	0	0	1434
+1434
+MotorA: 183
+MotorB: -23
+Position: 1434
+Time taken by the task: 80 milliseconds
+0	0	5	5	0	658	1000	0	5603
+5603
+MotorA: -25
+MotorB: 185
+Position: 5603
+Time taken by the task: 79 milliseconds
+0	0	0	0	0	0	13	25	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 75 milliseconds
+6	0	0	0	0	30	72	1000	6932
+6932
+MotorA: -91
+MotorB: 220
+Position: 6932
+Time taken by the task: 78 milliseconds
+0	6	47	1000	1000	0	0	0	3500
+3500
+MotorA: 80
+MotorB: 80
+Position: 3500
+Time taken by the task: 78 milliseconds
+19	6	0	0	0	0	0	0	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 74 milliseconds
+0	0	0	0	0	0	0	0	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 73 milliseconds
+0	0	0	0	0	0	0	0	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 73 milliseconds
+0	0	0	0	0	0	0	0	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 73 milliseconds
+0	0	0	0	0	0	6	49	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 74 milliseconds
+0	0	0	0	0	0	12	56	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 75 milliseconds
+18	0	0	0	0	0	18	48	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 76 milliseconds
+18	0	0	0	0	0	18	49	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 76 milliseconds
+24	5	0	0	0	0	18	55	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 76 milliseconds
+31	11	0	0	0	0	18	55	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 77 milliseconds
+37	11	5	0	0	6	24	55	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 77 milliseconds
+36	16	5	0	0	5	23	55	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 77 milliseconds
+85	47	29	5	6	30	36	67	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 79 milliseconds
+72	63	63	40	23	40	46	72	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 81 milliseconds
+66	57	63	41	23	40	47	72	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 81 milliseconds
+60	58	64	47	24	35	47	72	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 82 milliseconds
+60	58	64	47	24	35	47	72	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 81 milliseconds
+60	57	63	47	23	40	47	72	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 81 milliseconds
+60	58	63	47	24	35	47	72	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 81 milliseconds
+60	58	63	47	24	35	47	72	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 82 milliseconds
+54	58	64	41	24	35	47	72	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 81 milliseconds
+60	57	63	47	23	40	47	72	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 81 milliseconds
+54	57	63	47	23	40	47	72	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 81 milliseconds
+60	57	63	47	23	40	47	72	7000
+7000
+MotorA: -95
+MotorB: 220
+Position: 7000
+Time taken by the task: 82 milliseconds

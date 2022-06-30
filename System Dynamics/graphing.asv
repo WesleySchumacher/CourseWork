@@ -1,0 +1,17 @@
+clear all
+clc
+close all
+
+DT = 0.001;
+t1 = 0:DT:2;
+t2 = 2 + DT:DT:5;
+t = [t1 t2];
+
+RC = 1;
+% lowering you 
+
+y1 = 1 - exp(-t1/RC);
+y2 = - exp(-t2/RC) + exp(-(t2-2)/RC);
+
+y = [y1 y2];
+plot(t,y, 'linewidth',2)
